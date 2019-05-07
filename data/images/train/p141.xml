@@ -1,0 +1,26 @@
+<annotation>
+	<folder>first250</folder>
+	<filename>p141.jpg</filename>
+	<path>/home/hala/Downloads/first250-20190506T110724Z-001/first250/p141.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>epi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>16</ymin>
+			<xmax>579</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

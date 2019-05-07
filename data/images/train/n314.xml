@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>n314.jpg</filename>
+	<path>C:\Users\Pc\tensorflow\PPE\train\n314.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>675</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noepi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>202</ymin>
+			<xmax>334</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

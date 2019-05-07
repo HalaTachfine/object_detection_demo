@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>p159.jpg</filename>
+	<path>C:\Users\Pc\tensorflow\PPE\train\p159.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>epi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>6</ymin>
+			<xmax>870</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

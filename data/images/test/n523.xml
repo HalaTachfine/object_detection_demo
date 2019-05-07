@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>n523.jpg</filename>
+	<path>C:\Users\Pc\tensorflow\PPE\train\n523.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1540</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noepi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447</xmin>
+			<ymin>174</ymin>
+			<xmax>1283</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+</annotation>
